@@ -1,0 +1,18 @@
+{
+     "run_1": {
+         "latent_dim": 256,
+         "learning_rate": 0.001,
+         "encoder_filters": [
+             16,
+             8
+         ],
+         "decoder_filters": [
+             8,
+             16
+         ],
+         "epochs": 400,
+         "batch_size": 128,
+         "patience": 10,
+         "early_stopping_interval": 3
+     }
+}
