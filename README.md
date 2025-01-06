@@ -25,9 +25,10 @@ The pixel values of the images are rescaled by dividing them by 255, ensuring th
 
 
 ## Project Structure
-	-  mh_cvae_face_main.py: The main script for training and evaluating the Transformer model.
+	-  mh_cvae_face_main.py: The main script for training and evaluating the model.
 	-  t_cvae_class.py: A class implementation for the Conditional Variational Autoencoder (CVAE) with multi head attention.
 	-  checkpoints/: Directory for saving model checkpoints.
+ 	-  A JSON file is provided, allowing you to define various training parameters for conducting experiments
 
 
 
