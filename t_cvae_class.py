@@ -311,7 +311,7 @@ class ConditionalVariationalAutoencoder(tf.keras.Model):
                 #self.save_weights(checkpoint_dir)
                 print(f'Model weights saved at: {checkpoint_dir}')
         finally:
-                # Optional: Any cleanup code can go here
+                # TBD
                 print("Training process ended.")
                 #breakpoint()
         
