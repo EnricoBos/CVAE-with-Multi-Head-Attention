@@ -53,11 +53,11 @@ Make sure you have the following packages installed:
 - **Generated Images with Sunglasses and Smiling**  
 	- Images with sunglass and no-smiling , smiling
    
-   ![generated_0](https://github.com/user-attachments/assets/7fbdcf72-010a-4ef8-949f-6237c2749e92) ![generated_2](https://github.com/user-attachments/assets/9124c4ba-07d8-468a-9633-c5e3cb189b37)
+   	![generated_0](https://github.com/user-attachments/assets/7fbdcf72-010a-4ef8-949f-6237c2749e92) ![generated_2](https://github.com/user-attachments/assets/9124c4ba-07d8-468a-9633-c5e3cb189b37)
 
 	- Images with no sunglass and no-smiling , smiling
 
-![generated_1](https://github.com/user-attachments/assets/1f9dad68-0f01-4ecb-aeed-756ccbc0928c)  ![generated_3](https://github.com/user-attachments/assets/767c6f0a-b42b-4ea6-8616-b33b1fee8b55)
+	![generated_1](https://github.com/user-attachments/assets/1f9dad68-0f01-4ecb-aeed-756ccbc0928c)  ![generated_3](https://github.com/user-attachments/assets/767c6f0a-b42b-4ea6-8616-b33b1fee8b55)
 
 
 ## Authors
