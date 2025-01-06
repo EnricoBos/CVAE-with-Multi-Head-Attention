@@ -11,15 +11,15 @@ The project involves:
 - Evaluation:  Assessing the performance of the trained model by generating samples using random sampling from a normal distribution and analyzing the generated images.
 
 ## Image Preprocessing and Dataset Details
-*Image Preprocessing:
+* Image Preprocessing:
 	- Images are cropped and resized to a consistent format for input to the model. 
 The pixel values of the images are rescaled by dividing them by 255, ensuring they fall within the range [0, 1].
 
-*Attribute Selection:
+* Attribute Selection:
 	- From the attributes matrix provided with the dataset, the columns "sunglasses" and "smiling" are selected.
 	These attributes are used as conditional inputs to the CVAE during training.
 
-*Multi-Head Attention:
+* Multi-Head Attention:
 	- The multi-head attention mechanism is structured with 2 heads, enabling the model to capture complex relationships in the data.
 
 
