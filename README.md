@@ -50,7 +50,10 @@ Make sure you have the following packages installed:
 
 
 
-- **Generated I ages with Sunglasses and Smiling**  
+- **Generated Images with Sunglasses and Smiling**  
+	- Images with sunglass and no-smiling , smiling
+   ![generated_0](https://github.com/user-attachments/assets/7fbdcf72-010a-4ef8-949f-6237c2749e92) ![generated_2](https://github.com/user-attachments/assets/9124c4ba-07d8-468a-9633-c5e3cb189b37)
+
 
 
 
