@@ -46,6 +46,7 @@ Make sure you have the following packages installed:
 
 ## Example Output
 - **Some Original Images**  
+![processed_original_2](https://github.com/user-attachments/assets/f5728146-a750-410a-bb33-76fa84c110bf)
 
 
 - **Generated I ages with Sunglasses and Smiling**  
