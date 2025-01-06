@@ -6,9 +6,9 @@
 
 ## Overview
 The project involves:
-	- Image processing: Preprocessing images by cropping and resizing
-	- Model Training: Training a Conditional Variational Autoencoder (CVAE) with multi-head attention on the prepared dataset.
-	- Evaluation:  Assessing the performance of the trained model by generating samples using random sampling from a normal distribution and analyzing the generated images.
+- Image processing: Preprocessing images by cropping and resizing
+- Model Training: Training a Conditional Variational Autoencoder (CVAE) with multi-head attention on the prepared dataset.
+- Evaluation:  Assessing the performance of the trained model by generating samples using random sampling from a normal distribution and analyzing the generated images.
 
 ## Image Preprocessing and Dataset Details
 *Image Preprocessing:
